@@ -10,10 +10,8 @@
 ## Optional Challenges
 
 - [x] Progressive increase in difficulty.
-- [x] Inputs
-- [ ] Use of parallax or other advanced background format.
+- [x] Optional Inputs
 - [x] Death and restart
-- [ ] Object pool
 
 ## Controls
 
