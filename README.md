@@ -17,3 +17,8 @@
 
 - Up arrow to jump
 - Down arrow to descend.
+
+## Assets
+
+All assets used in this game were obtained from Kenney.
+https://www.kenney.nl/
